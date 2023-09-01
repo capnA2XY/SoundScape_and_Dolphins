@@ -1,4 +1,8 @@
 # SoundScape_and_Dolphins
+Based on :
+https://www.kaggle.com/datasets/shreyj1729/best-of-watkins-marine-mammal-sound-database
+https://github.com/ovh/ai-training-examples/blob/main/notebooks/audio/audio-classification/notebook-marine-sound-classification.ipynb
+
 SoundScape and Dolphins AI Machine Learning model for classification, detector
 
 To avoid Python version chaos:
