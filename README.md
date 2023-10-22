@@ -11,10 +11,10 @@ conda create -n tf-gpu python=3.9.15
 
 conda activate tf-gpu
 
-pip install librosa=0.9.2
-pip install pandas=1.4.2
-pip install matplotlib=3.5.3
-pip install tensorflow=2.6.0
+pip install librosa==0.9.2
+pip install pandas==1.4.2
+pip install matplotlib==3.5.3
+pip install tensorflow==2.6.0
 #etc.....
 
 /////////////////////////////////////////////////////
